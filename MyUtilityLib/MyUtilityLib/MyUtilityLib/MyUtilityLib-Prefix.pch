@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MyUtilityLib' target in the 'MyUtilityLib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
